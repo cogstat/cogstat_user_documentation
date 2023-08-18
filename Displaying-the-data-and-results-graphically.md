@@ -1,3 +1,6 @@
+---
+title: Displaying the data and results graphically
+---
 CogStat creates charts for various aspects of the data and results automatically. There are specific considerations on how these charts are created:
 
 * [Individual data](Displaying-individual-data) are displayed in the raw data charts and the sample charts
