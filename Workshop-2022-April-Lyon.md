@@ -1,3 +1,6 @@
+---
+title: Workshop 2022 April Lyon
+---
 **Date** 21 April 2022, 10:00-12:00 (depending on the questions, the workshop may be a bit longer)
 
 **Venue** Room F28, Neurocampus, Bâtiment 462, Centre Hospitalier Le Vinatier 95 Bd Pinel (entrée principale) Bron. Lyon, France.
