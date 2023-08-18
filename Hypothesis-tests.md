@@ -1,3 +1,6 @@
+---
+title: Hypothesis tests
+---
 CogStat supports a series of hypothesis tests.
 
 * For the Bayesian tests, CogStat uses the default priors as in [JASP](https://jasp-stats.org/), so that the two software gives the same result (unless you modify the priors in JASP).
