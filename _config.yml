@@ -1,0 +1,9 @@
+remote_theme: jekyll/minima@3cdd14d
+# theme: minima uses an older stable version, use remore_theme for minima theme
+title: CogStat documentation
+
+plugins:
+  - jekyll-remote-theme
+
+minima:
+  skin: classic
