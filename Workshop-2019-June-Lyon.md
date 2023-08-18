@@ -1,3 +1,6 @@
+---
+title: Workshop 2019 June Lyon
+---
 **Date** 17 June 2019, 15:00
 
 **Venue** Lyon, France; Salle F28 , Neurocampus, Bâtiment 462, Centre Hospitalier Le Vinatier 95 Bd Pinel (entrée principale) Bron
