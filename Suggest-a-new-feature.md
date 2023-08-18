@@ -1,3 +1,6 @@
+---
+title: Suggest a new feature
+---
 If you want to see a new feature in CogStat that is not available yet, request it.
 
 To suggest a new feature, go to the [Issues page](https://github.com/cogstat/cogstat/issues) or to the [Discussion forum](https://github.com/cogstat/cogstat/discussions).
