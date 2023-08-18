@@ -1,3 +1,6 @@
+---
+title: Report a bug
+---
 ### 1. Make sure it is a bug
 Check the appropriate part(s) of the [user documentation](Documentation-for-users) whether the thing you consider to be a bug is actually the intended behavior.
 
