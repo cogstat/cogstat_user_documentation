@@ -1,4 +1,6 @@
-
+---
+title: Workshop 2023 Május 9 Online
+---
 ## Workshop a regressziós elemzésről CogStat szoftverrel BA pszichológia hallgatóknak
 
 **Időpont** 2023 május 9. (kedd) 16:00-17:30 (a kérdésektől függően, ha van rá igény, lehet kissé hosszabb is)
