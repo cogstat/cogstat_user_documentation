@@ -5,7 +5,6 @@
 * [Example analyses](https://github.com/cogstat/cogstat/blob/master/cogstat/docs/CogStat%20analyses%20showcase.ipynb)
 * [Using automatic and individual analysis software packages](Using-automatic-and-individual-analysis-software-packages)
 * [Learning statistics with CogStat](Learning-statistics-with-CogStat)
-* [How to search this documentation?](How-to-search-this-documentation%3F)
 * See also
     * [Slideshow about the advantages of CogStat](https://docs.google.com/presentation/d/1dIb6f3yPvr8stMLS7b7qcBsgloqbcQj2b55NUT4D9vc/edit?usp=sharing)
     * [Slideshow about the use of CogStat](https://docs.google.com/presentation/d/1_rnHhyD3pF9BZuqCkcFLWKhAbX1DfS8T5q-TxogqpZA/edit?usp=sharing)
