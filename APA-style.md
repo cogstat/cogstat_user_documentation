@@ -1,3 +1,6 @@
+---
+title: APA style
+---
 At the moment CogStat uses the APA format when it is relevant:
 
 * This mostly means that the results of the hypothesis tests are displayed in line with the APA format.
