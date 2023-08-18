@@ -1,3 +1,6 @@
+---
+title: Explore relation of variable pair
+---
 Choose the `Analysis > Explore relation of variable pair` menu or the `Analysis > Explore relation of variables` menu, and choose the variables you want to analyze, then hit OK.
 
 Differences between the `relation of variable pair` and the `relation of variables` menus:
