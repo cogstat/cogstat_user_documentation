@@ -1,3 +1,6 @@
+---
+title: CogStat settings
+---
 Find it in the `CogStat > Preferences...` menu.
 
 After choosing the required settings, press OK. For changing the language, restart CogStat after pressing OK.
