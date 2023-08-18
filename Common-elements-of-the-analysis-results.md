@@ -1,3 +1,6 @@
+---
+title: Common elements of the analysis results
+---
 # Raw data, sample properties and population properties
 
 In most analyses, the results are divided into three main sections and further subsections:
