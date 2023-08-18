@@ -1,3 +1,6 @@
+---
+title: If you are coming from another software
+---
 It is worth to use (even partially) CogStat because automatic analysis is fast, and less error prone and optimized output is easier to understand, review, and copy to a report. Also, you may find additional relevant and important details about your data that you would not have checked for otherwise.
 
 It is easy to start using CogStat because there's a chance that your former data file format is supported, so you can start using your previous data and because, technically, CogStat is quite simple to use.
