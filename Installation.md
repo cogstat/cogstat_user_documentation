@@ -1,3 +1,6 @@
+---
+title: Installation
+---
 [Click here to subscribe for an email notification when a new version of CogStat is released.](https://forms.gle/vxFfuiQpG5nBZJSm9)
 
 ### Install and use CogStat on Windows
