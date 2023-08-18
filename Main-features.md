@@ -1,3 +1,6 @@
+---
+title: Main features
+---
 CogStat is different from other statistical packages in many ways. The main aim was to build a very efficient statistical package. Most of the functions were developed cognitive psychologists in mind, but many of these the methods could be useful for many other scientists as well.
 
 ### Main features of CogStat
