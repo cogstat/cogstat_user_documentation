@@ -1,3 +1,6 @@
+---
+title: Workshop 2019 June Belgorod
+---
 **Date** 4 June 2019, 14:00-15:30
 
 **Venue** Belgorod National Research University, Belgorod, Russia
