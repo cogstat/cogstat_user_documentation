@@ -1,3 +1,6 @@
+---
+title: Compare repeated measures variables
+---
 From the `Analysis` menu choose `Compare repeated measures variables`, and choose the variables you want to compare, then hit OK.
 
 To use several factors, click on `Factors...` and set the names and the levels of the factors, and click OK. Then you can select the variables for the factor level combinations.
