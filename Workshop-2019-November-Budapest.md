@@ -1,3 +1,6 @@
+---
+title: Workshop 2019 November Budapest
+---
 **Date** 5 November 2019, 13:00-16:00
 
 **Venue** ELTE Eötvös Loránd University, [Kazinczy utca 23-27](https://www.google.hu/maps/@47.498188,19.0627733,19.25z), room 313, Budapest, Hungary
