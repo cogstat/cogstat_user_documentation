@@ -1,3 +1,6 @@
+---
+title: Compare groups
+---
 From the `Analysis` menu choose `Compare groups`, and choose the dependent variable(s) you want to analyze, choose the `Grouping variable`, then hit OK.
 
 In the `Display options...` dialog, [the minimum and maximum of the y-axis](Displaying-the-data-and-results-graphically#range-of-the-axes), and (new in v2.4) [the way groups are displayed](Displaying-the-data-and-results-graphically#displaying-factors-and-groups-in-x-axis-colors-and-panels) can be set.
