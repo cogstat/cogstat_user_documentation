@@ -1,3 +1,6 @@
+---
+title: Pivot table
+---
 With pivot table data of a dependent variable can be grouped by other variable(s) values and the groups can be processed by different functions.
 
 To create a pivot table, from the `Analysis` menu choose `Pivot table`, and choose the variable(s) you want to analyze:
