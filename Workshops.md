@@ -1,3 +1,6 @@
+---
+title: Workshops
+---
 ## 2023
 
 - [Workshop for diffusion analysis users](Workshop-2023-September-Pécs) September 2023, Pécs, Hungary
