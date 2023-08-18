@@ -1,3 +1,6 @@
+---
+title: Quick Start Tutorial
+---
 # [Download and install CogStat](Installation)
 
 [Download](https://www.cogstat.org/download.html) and install CogStat with a few clicks.
