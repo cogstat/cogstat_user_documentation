@@ -1,3 +1,6 @@
+---
+title: Learning statistics with CogStat
+---
 ## Why learn statistics with CogStat?
 
 There are various advantages of learning statistics with CogStat.
