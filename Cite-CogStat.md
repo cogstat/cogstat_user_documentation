@@ -1,3 +1,6 @@
+---
+title: Cite CogStat
+---
 If you use CogStat for your work, please, cite CogStat in the appropriate publication as
 
 * Krajcsi, A. (2021). CogStat – An automatic analysis statistical software (Version 2.1.0). [Computer software] Retrieved from <https://www.cogstat.org>
