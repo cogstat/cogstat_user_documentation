@@ -1,3 +1,6 @@
+---
+title: Handling output
+---
 When relevant, CogStat displays the results in [APA style](APA-style).
 
 ## Delete output
