@@ -1,3 +1,6 @@
+---
+title: Behavioral data diffusion analysis
+---
 ## What are diffusion models?
 
 Diffusion models of behavioral data assume that evidence is accumulated within a trial until a specific threshold is reached, and then the response is chosen. Diffusion models assume several parameters in the background influencing the responses, and these parameters can be recovered analyzing the behavioral data.
