@@ -1,3 +1,6 @@
+---
+title: Reliability
+---
 New in v2.4
 
 CogStat supports several reliability analyses.
