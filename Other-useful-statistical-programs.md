@@ -1,3 +1,6 @@
+---
+title: Other useful statistical programs
+---
 CogStat is great, we know, but it is not designed for some tasks, some planned features are not available yet, or there may be some special scenarios where individual analysis software should be used. So here is our recommendation for those cases.
 
 General purpose statistical programs
