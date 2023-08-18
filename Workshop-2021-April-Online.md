@@ -1,3 +1,6 @@
+---
+title: Workshop 2021 April Online
+---
 **Date** 16 April 2021, 15:30-17:30 CET (depending on the questions, the workshop may be a bit longer)
 
 **Venue** Online on Zoom. Participants will get the link via email.
