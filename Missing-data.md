@@ -1,3 +1,6 @@
+---
+title: Missing data
+---
 * CogStat displays the missing cases at the beginning of the analyses, drops them, and uses only the observed cases in that analysis.
 * When [filtering outliers](Filter-outliers), cases with missing data are also excluded. In multivariate outlier detection (Mahalanobis distance), when a data is missing in any variables, the case will be excluded.
     * This practice has a clear advantage that only the cases for which we have information can be included. On the other hand, cases can be excluded not only because they are outliers but because we miss some information (this is clearly not an issue when the filtering is based on a single variable but when multiple univariate or a multivariate filtering is used). Based on later considerations, we may modify this rule.
