@@ -1,3 +1,6 @@
+---
+title: Differences in calculations between CogStat and other programs
+---
 Sometimes different programs use different solutions (e.g., different hypothesis tests) for the same question, or sometimes they use a different version of the same solution ([see some examples](https://www.pharmasug.org/proceedings/2017/QT/PharmaSUG-2017-QT12.pdf)).
 
 Here we list some of the differences in the calculations between CogStat and other statistical programs.
