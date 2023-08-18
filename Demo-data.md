@@ -1,3 +1,6 @@
+---
+title: Demo data
+---
 ### What can these demo data be used for?
 
 Several demo datasets are distributed with CogStat. These data can be used to check the abilities of CogStat.
