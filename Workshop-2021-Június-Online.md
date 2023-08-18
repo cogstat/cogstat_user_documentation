@@ -1,4 +1,6 @@
-
+---
+title: Workshop 2021 Június Online
+---
 **Időpont** 2021 június 9., 14.00-15:00 (a kérdésektől függően, ha van rá igény, lehet kissé hosszabb is)
 
 **Helyszín** Google Meet. A linket a regisztrált résztvevők emailen kapják majd meg.
