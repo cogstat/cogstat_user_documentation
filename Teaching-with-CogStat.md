@@ -1,3 +1,6 @@
+---
+title: Teaching with CogStat
+---
 CogStat is designed to support statistics education:
 
 * Relying on automatic analyses, students will have **much less user interaction** compared with other statistical packages. See an example comparison of SPSS and CogStat [here](https://docs.google.com/presentation/d/1_rnHhyD3pF9BZuqCkcFLWKhAbX1DfS8T5q-TxogqpZA/edit#slide=id.g5a16674318_0_81). Therefore, you save a lot of time in your classes: You don't have to spend time explaining where to click and what to choose, but can focus on the statistical material.
