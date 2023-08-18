@@ -1,3 +1,6 @@
+---
+title: Internal consistency reliability analysis
+---
 New in v2.4.
 # How to run the analysis?
 
