@@ -1,3 +1,6 @@
+---
+title: Compare repeated measures variables and groups
+---
 New in v2.4.
 
 From the `Analysis` menu choose `Compare repeated measures variables and groups`, and choose the variables you want to compare and the `Grouping variable`, then hit OK.
