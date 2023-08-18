@@ -1,3 +1,6 @@
+---
+title: Testing normality
+---
 ## Available methods
 There are several possible methods to [test normality](https://en.wikipedia.org/wiki/Normality_test) of a variable.
 
