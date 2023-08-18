@@ -1,3 +1,6 @@
+---
+title: Handling data
+---
 ## Storing and manipulating your data.
 
 CogStat is designed not to edit data, but only to run the statistical analysis. You must store and edit your data in other software package, and import your data to CogStat.
