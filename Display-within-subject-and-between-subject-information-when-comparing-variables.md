@@ -1,3 +1,6 @@
+---
+title: Display within subject and between subject information when comparing variables
+---
 New in v2.4.
 
 When comparing repeated measures variables or groups or both, the relevant results can be displayed flexibly.
