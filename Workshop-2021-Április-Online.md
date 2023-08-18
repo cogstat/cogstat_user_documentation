@@ -1,4 +1,6 @@
-
+---
+title: Workshop 2021 Április Online
+---
 **Időpont** 2021 április 29., 16.00-17:00 (a kérdésektől függően, ha van rá igény, lehet kissé hosszabb is)
 
 **Helyszín** Google Meet. A linket a regisztrált résztvevők emailen kapják majd meg.
