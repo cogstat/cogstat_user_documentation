@@ -1,3 +1,6 @@
+---
+title: Workshop 2021 Szeptember 22 Online
+---
 **Időpont** 2021 szeptember 22., 15.00-16:30 (a kérdésektől függően, ha van rá igény, lehet kissé hosszabb is)
 
 **Helyszín** Google Meet. A linket a regisztrált résztvevők emailen kapják majd meg.
