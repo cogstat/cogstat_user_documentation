@@ -1,3 +1,6 @@
+---
+title: Workshop 2019 Február Budapest
+---
 **Időpont** 2019 február 22., 15 órától
 
 **Helyszín** ELTE PPK Pszichológiai Intézet, Budapest, Izabella utca 46. 402-es terem
