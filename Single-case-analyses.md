@@ -1,3 +1,6 @@
+---
+title: Single case analyses
+---
 CogStat can handle comparisons when a single case (e.g., a patient) is compared to a group (e.g., a control group). The single case hypothesis tests are based on the solution proposed by John R. Crawford and his colleagues.
 
 At the moment, CogStat supports the following hypothesis tests:
