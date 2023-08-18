@@ -1,3 +1,6 @@
+---
+title: Displaying ordinal and nominal data
+---
 # Displaying ordinal data
 When the data of an ordinal scale is displayed, usually the values are depicted. However, this is misleading, because for an ordinal variable only the order of those values that is considered in the analysis. For example, Spearman's correlation is in fact a Pearson's correlation on the order of the original values ([find more information here](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient#Definition_and_calculation)). When it is possible, it is more appropriate to display the order information for an ordinal variable, because this is the information the analyses rely on.
 
