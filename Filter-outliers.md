@@ -1,3 +1,6 @@
+---
+title: Filter outliers
+---
 How to set outlier-based filtering? 
 * To filter outliers, from the `Data` menu choose `Filter outliers...`, and choose the variable(s) you want to use to remove outliers, (new v2.4) choose whether you want to use univariate or multivariate method, then hit OK.
      * CogStat will display the threshold values for being outliers, list the cases that are excluded, and (new in v2.3) displays graphically the excluded and included cases together with the thresholds. (New in v2.4) The filtered cases are displayed with gray text in the Data view.
