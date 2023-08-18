@@ -1,3 +1,6 @@
+---
+title: Using automatic and individual analysis software packages
+---
 ## Automatic vs individual analysis software packages
 
 Most statistical packages are **individual analysis software**, i.e., you have to choose individually which analyses (such as specific hypothesis tests, descriptive statistics, confidence interval) to run. In an **automatic analysis software**, you choose the task/question and the specific analyses are chosen by the software.
