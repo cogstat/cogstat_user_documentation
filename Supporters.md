@@ -1,3 +1,6 @@
+---
+title: Supporters
+---
 Supporters of CogStat are:
 
 * New National Excellence Program of the Ministry for Innovation and Technology from the source of the National Research, Development and Innovation Fund, ÚNKP-21-2-I-ELTE-501 (Tamás Szűcs)
