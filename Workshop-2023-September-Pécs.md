@@ -1,3 +1,6 @@
+---
+title: Workshop 2023 September Pécs
+---
 **Date** September 2023 TBA
 
 **Venue** Pécs, Hungary TBA
