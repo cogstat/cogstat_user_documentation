@@ -1,3 +1,6 @@
+---
+title: Displaying individual data
+---
 It is important to look at the graphs of the individual data.
 
 There could be cases where two different data show two different patterns, but the numerical descriptives are the same, as demonstrated in the following spectacular animation taken from [this website](https://www.research.autodesk.com/publications/same-stats-different-graphs/).
