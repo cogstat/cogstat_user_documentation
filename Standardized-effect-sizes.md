@@ -1,3 +1,6 @@
+---
+title: Standardized effect sizes
+---
 CogStat calculates various standardized effect sizes.
 
 * The effect sizes are differentiated as sample effect sizes and population effect size estimations in the results. (This distinction is not obvious in many textbooks or methodological works.)
