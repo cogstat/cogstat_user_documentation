@@ -19,6 +19,8 @@ Note that:
 
 * `diffusion model folder`
   * Data of the PyDDM package. <https://pyddm.readthedocs.io/en/stable/quickstart.html>
+  * Data of the hddm package. <https://hddm.readthedocs.io/en/latest/>
+  * Data of Krajcsi, Lengyel, & Kojouharova (2018) <https://doi.org/10.3389/fpsyg.2018.00124>. <https://osf.io/jw5ha/>
 * `Faulkenberry folder`
   * Navarro, D.J., Foxcroft, D.R., & Faulkenberry, T.J. (2019). Learning Statistics with JASP: A Tutorial for Psychology Students and Other Beginners. <https://learnstatswithjasp.com>
 * `Field folder`
