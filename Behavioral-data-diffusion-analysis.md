@@ -29,6 +29,8 @@ Based on the reaction time and error data, drift rate, threshold, and nondecisio
 
 You can try these steps with the [demo data](Demo-data) in the `diffusion model` folder.
 
+If you use CogStat as a Python package, see an example script [here](https://github.com/cogstat/cogstat/blob/master/cogstat/docs/CogStat%20demonstration%20for%20diffusion%20model%20parameter%20recovery.ipynb).
+
 ### Preconditions of running a diffusion analysis
 
 Run the analysis only if these preconditions apply:
