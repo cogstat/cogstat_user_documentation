@@ -41,7 +41,7 @@
     * [Pivot table](Pivot-table)
     * [Behavioral data diffusion analysis](Behavioral-data-diffusion-analysis)
 * [Handling output](Handling-output)
-* [Settings](CogStat-settings)
+* [Preferences](Preferences)
 * [Cite CogStat](Cite-CogStat)
 * [What's new in CogStat?](https://github.com/cogstat/cogstat/blob/master/changelog.md)
     * Follow CogStat on [Mastodon](https://fosstodon.org/@cogstat), [Facebook](https://www.facebook.com/cogstat/), or [Twitter](https://twitter.com/CogStat) or on the [Discussions forum](https://github.com/cogstat/cogstat/discussions/154) to see what's new
@@ -61,7 +61,7 @@
 * Discuss CogStat on [Mastodon](https://fosstodon.org/@cogstat), [Facebook](https://www.facebook.com/cogstat/) or [Twitter](https://twitter.com/CogStat)
 * [Request a video call](https://docs.google.com/forms/d/e/1FAIpQLSecoa8GEt-huN9BSTswUWcIxZWrSycOnZVovl-vKNUeuXLHhg/viewform?usp=sf_link) (at the moment, only in Hungarian)
 * Ask any questions about CogStat on our [Discussions forum](https://github.com/cogstat/cogstat/discussions)
-* Get notification when new release is out by subscribing our [notification list](https://groups.google.com/g/cogstat-announcement/) or our [discussion forum](https://github.com/cogstat/cogstat/discussions/155)
+* Get a notification when a new release is out by subscribing to our [notification list](https://groups.google.com/g/cogstat-announcement/) or our [discussion forum](https://github.com/cogstat/cogstat/discussions/155)
 * [Request a new feature](Suggest-a-new-feature)
 * [Report a bug](Report-a-bug)
 * [Find alternative software](Other-useful-statistical-programs) for other specific tasks that CogStat cannot handle
