@@ -65,3 +65,5 @@ If you're not satisfied with the given themes, or want to modify further element
 The image format of the charts can be set in the [`CogStat > Preferences...`](CogStat-settings#image-format) menu.
 
 The charts can be displayed in png and svg format. The svg format is always sharp, no matter what zooming one uses, while the png format may require less memory when there are many details in the images (mostly for large sample sizes when the individual data are displayed). The svg format later can be reformatted (e.g., changing the colors) in other image manipulation software - see below.
+
+Currently, the svgformat may not work with all word processors, when you want to copy and paste the results. For example, the svg format is not supported (as of 2023 September) in Google Docs, and it is only partly supported in OnlyOffice.
