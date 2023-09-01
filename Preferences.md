@@ -1,5 +1,5 @@
 ---
-title: CogStat settings
+title: Preferences
 ---
 Find it in the `CogStat > Preferences...` menu.
 
