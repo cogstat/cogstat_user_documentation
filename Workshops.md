@@ -3,9 +3,9 @@ title: Workshops
 ---
 ## 2023
 
-- [Workshop for diffusion analysis users](Workshop-2023-September-Pécs) September 2023, Pécs, Hungary
-- [Workshop for psychology BA students about regression analysis](Workshop-2023-Május-9-Online) May 2023, Online (in Hungarian)
-- [Workshop for psychology BA students about regression analysis](Workshop-2023-Május-Online) May 2023, Online (in Hungarian)
+- [Workshop for diffusion analysis users](Workshop-2023-September-Pécs) 8 September 2023, Pécs, Hungary
+- [Workshop for psychology BA students about regression analysis](Workshop-2023-Május-9-Online) 9 May 2023, Online (in Hungarian)
+- [Workshop for psychology BA students about regression analysis](Workshop-2023-Május-Online) 8 May 2023, Online (in Hungarian)
 
 ## 2022
 
