@@ -34,6 +34,7 @@
     * [Explore relation of variables](Explore-relation-of-variables)
     * [Compare repeated measures variables](Compare-repeated-measures-variables)
     * [Compare groups](Compare-groups)
+        * [Single case analysis](Single-case-analyses)
     * [Compare repeated measures variables and groups](Compare-repeated-measures-variables-and-groups)
     * [Reliability](Reliability)
         * [Internal consistency reliability analysis](Internal-consistency-reliability-analysis)
