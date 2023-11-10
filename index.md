@@ -60,7 +60,7 @@
 ### Get help
 * [Workshops](Workshops)
 * Discuss CogStat on [Mastodon](https://fosstodon.org/@cogstat), [Facebook](https://www.facebook.com/cogstat/) or [Twitter](https://twitter.com/CogStat)
-* [Request a video call](https://docs.google.com/forms/d/e/1FAIpQLSecoa8GEt-huN9BSTswUWcIxZWrSycOnZVovl-vKNUeuXLHhg/viewform?usp=sf_link) (at the moment, only in Hungarian)
+* [Request a consultation in Budapest or online](https://www.krajcsiattila.hu/krajcsi-attila/kurzusok/statisztika-konzult%C3%A1ci%C3%B3) or an [online only video call](https://docs.google.com/forms/d/e/1FAIpQLSecoa8GEt-huN9BSTswUWcIxZWrSycOnZVovl-vKNUeuXLHhg/viewform?usp=sf_link) (at the moment, only in Hungarian)
 * Ask any questions about CogStat on our [Discussions forum](https://github.com/cogstat/cogstat/discussions)
 * Get a notification when a new release is out by subscribing to our [notification list](https://groups.google.com/g/cogstat-announcement/) or our [discussion forum](https://github.com/cogstat/cogstat/discussions/155)
 * [Request a new feature](Suggest-a-new-feature)
