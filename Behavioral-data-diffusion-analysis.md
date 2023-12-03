@@ -73,6 +73,8 @@ p01|	nonword|	0| 0.712
   * Reaction time and response correctness variables are mandatory; participant and condition(s) are optional.
   * (New in v2.4) Make sure that response coding and reaction time units are set correctly.
   * (New in v2.4) Optionally, you may change the default scaling parameter from 0.1 to 1.
+ 
+### Check the results
 * Find the intermediate descriptive statistics ((new in v2.4) number of trials, (removed from v2.5) mean error, mean RT of correct responses, variance of RT of correct responses - first three tables), and the recovered parameters (drift rate, threshold and non-decision time - next three tables) for all participants (rows) and conditions (columns) in the output.
   * (New in v2.4) You'll find the number of trials in each cell. Note that if the cell sizes differ considerably, then the recovered parameters may be biased because the edge correction uses different sizes of corrections with different cell sizes; therefore, the recovered parameters will partly correlate with your cell sizes.
   * You will find NaN values in cells where there are no data in that condition.
