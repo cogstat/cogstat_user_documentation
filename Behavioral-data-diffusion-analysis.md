@@ -52,8 +52,8 @@ All rows should include the following variables:
 - Error
   - Either erroneous trials should be coded as 1, and correct trials should be coded as 0, or (new in v2.4) erroneous trials should be coded as 0, and correct trials should be coded as 1.
 - Reaction time
-  - It is critical that the time should be measured in seconds, or (new in v2.4) in milliseconds, but not in other units, otherwise the recovered parameters will be incorrect.
-  - (Up to v2.3) It is recommended to remove trials with outliers. (New in v2.4) Trials with longer than 2.5 sec responses are removed before the analysis.
+  - It is critical that the time should be measured in seconds or (new in v2.4) in milliseconds, but not in other units; otherwise, the recovered parameters will be incorrect.
+  - (Up to v2.3) It is recommended to remove trials with outliers. (New in v2.4) Trials with responses longer than 2.5 sec are removed before the analysis.
 
 For example, the data should look like this:
 
@@ -70,10 +70,10 @@ p01|	nonword|	0| 0.712
 * Choose `Analysis > Behavioral data diffusion analysis.`
 * Set the variables that include the error, reaction time, participant, and condition(s).
   * One or more condition variables can be set. For each other input parameter, a single variable should be chosen.
-  * Reaction time and response correctness variables are mandatory, participant and condition(s) are optional.
+  * Reaction time and response correctness variables are mandatory; participant and condition(s) are optional.
   * (New in v2.4) Make sure that response coding and reaction time units are set correctly.
   * (New in v2.4) Optionally, you may change the default scaling parameter from 0.1 to 1.
-* Find the intermediate descriptive statistics ((new in v2.4)number of trials, (removed from v2.5) mean error, mean RT of correct responses, variance of RT of correct responses - first three tables), and the recovered parameters (drift rate, threshold and non-decision time - next three tables) for all participants (rows) and conditions (columns) in the output.
+* Find the intermediate descriptive statistics ((new in v2.4) number of trials, (removed from v2.5) mean error, mean RT of correct responses, variance of RT of correct responses - first three tables), and the recovered parameters (drift rate, threshold and non-decision time - next three tables) for all participants (rows) and conditions (columns) in the output.
   * (New in v2.4) You'll find the number of trials in each cell. Note that if the cell sizes differ considerably, then the recovered parameters may be biased because the edge correction uses different sizes of corrections with different cell sizes; therefore, the recovered parameters will partly correlate with your cell sizes.
   * You will find NaN values in cells where there are no data in that condition.
   * Note that when the results are copied to a spreadsheet, whether the table headers are handled correctly may depend on the spreadsheet software. For example, Google Spreadsheet (as of January 2020) handles the headers correctly, ONLYOFFICE (version 5.4) may miss some condition name rows, and LibreOffice (version 6.3) may mess up the table if the headers are also included.
