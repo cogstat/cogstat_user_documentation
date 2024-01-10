@@ -39,7 +39,7 @@ CogStat can import data from several file formats.
         - If there are multiple sheets in your file, the first sheet will be imported.
     - **Text .csv, .txt, tsv., .dat, and .log files**
        - If you save it from your spreadsheet, make sure that the measurement level row is included (see below). If you save it from other software (e.g., SPSS), then the measurement level will not be included; therefore, we do not recommend this file format.
-       - In some cases, CogStat may not be able to read the csv file correctly because, in general, it is very difficult to correctly identify the applied csv formats. If CogStat cannot read your csv file, we recommend opening the csv file with a spreadsheet program and saving it to another format (such as xls, xlsx or  odt) which can be read more easily by CogStat.
+       - In some cases, CogStat may not be able to read the csv file correctly because, in general, it is very difficult to identify the applied csv formats correctly. If CogStat cannot read your csv file, we recommend opening the csv file with a spreadsheet program and saving it to another format (such as xls, xlsx or  odt) which can be read more reliably by CogStat.
 - File formats where the measurement level can be set in the software and can be saved in the file format:
     - **SPSS .sav, .zsav, and .por files**
     - **JASP .jasp files**
