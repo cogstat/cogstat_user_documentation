@@ -51,7 +51,9 @@ See some examples of how those themes may look [here](https://matplotlib.org/gal
 
 ### Customizing further details
 
-If you're not satisfied with the given themes or want to modify further elements of the charts, then you may use the svg image format (see below), and then your chart can be edited in image manipulation software packages. For example, in [LibreOffice](https://www.libreoffice.org/), 
+If you're not satisfied with the given themes or want to modify further elements of the charts, then you may use the svg image format (see below), and then your chart can be edited in image manipulation software packages, such as [LibreOffice Draw](https://www.libreoffice.org/) or [Inkscape](https://inkscape.org/).
+
+For example, in [LibreOffice](https://www.libreoffice.org/), 
 * after you copied the chart from CogStat to Writer to your report, 
 * copy the chart again from Writer, open a Draw window (`File > New > Drawing`), and paste your chart, 
 * right-click on the chart, choose `Break`,
