@@ -1,7 +1,7 @@
 ---
 title: Common elements of the analysis results
 ---
-# Raw data, sample properties, and population properties
+## Raw data, sample properties, and population properties
 
 In most analyses, the results are divided into three main sections and further subsections:
 
@@ -22,7 +22,7 @@ In most analyses, the results are divided into three main sections and further s
 
 Find some more (technical) information about these parts in the [development documentation](https://github.com/cogstat/cogstat/wiki/How-to-compile-the-results%3F#results-to-compile).
 
-# Rerun the analyses
+## Rerun the analyses
 
 (New in v2.4.) You can rerun all analyses in the current Results pane with the `Analysis > Rerun all analyses...` menu. This is useful after you [reload your active data file](Handling-data#how-to-edit-your-data).
 
