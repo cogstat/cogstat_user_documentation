@@ -106,4 +106,4 @@ There are a few features in CogStat that make editing your data easier:
     * (New in v2.4) If you change your source file and save it, you can simply reload your active data file with the `Data > Reload actual data file` command. After reloading the data, you can easily [rerun the analyses](Common-elements-of-the-analysis-results#rerun-the-analyses) seen in the Results pane.
     * (New in v2.5) Turn on `Data > Reload data file when changed` to reload the actual data file automatically when the file is saved in the editor software. This way, you don't have to reload the file manually.
 
-When automatic reloading and [automatic reanalysis](Common-elements-of-the-analysis-results#Rerun-the-analyses) are turned on, the editor software can be considered as the external data editor of CogStat.
+When automatic reloading and [automatic reanalysis](Common-elements-of-the-analysis-results#rerun-the-analyses) are turned on, the editor software can be considered as the external data editor of CogStat.
