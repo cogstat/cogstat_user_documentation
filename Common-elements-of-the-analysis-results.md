@@ -24,6 +24,6 @@ Find some more (technical) information about these parts in the [development doc
 
 # Rerun the analyses
 
-New in v2.4.
+(New in v2.4.) You can rerun all analyses in the current Results pane with the `Analysis > Rerun all analyses...` menu. This is useful after you [reload your active data file](Handling-data#how-to-edit-your-data).
 
-You can rerun all analyses in the current Results pane with the `Analysis > Rerun all analyses...` menu. This is useful after you [reload your active data file](Handling-data#how-to-import-your-data).
+(New in v2.5) Turn on ‘Analyses > Rerun all analyses when file reloaded` to rerun all the analyses seen in the results pane whenever the [file is reloaded](Handling-data#how-to-edit-your-data). When automatic reloading and automatic analysis are turned on, the editor software can be considered as the external data editor of CogStat.
