@@ -3,7 +3,7 @@ title: Power analysis
 ---
 CogStat supports **sensitivity power analysis**. In a sensitivity power analysis, the question is what is the minimal effect size that would provide appropriate power with the given alpha level and sample size. In other words, in the current analysis, what is the minimal effect size that can be shown with appropriate power? Yet, in other words, what is the minimal effect size where the null hypothesis probably can be rejected (i.e., the test will be significant) if the effect is present.
 
-CogStat will calculate the effect size given 95% power, 5% alpha, and the actual sample size.
+CogStat will calculate the effect size given 95% and (new in v2.5) 80% power, 5% alpha, and the actual sample size.
 
 Note that, in some cases, the modules that CogStat uses to get the power analysis done are occasionally unable to calculate the results. In those cases, CogStat informs the user that the power analysis could not be calculated.
 
