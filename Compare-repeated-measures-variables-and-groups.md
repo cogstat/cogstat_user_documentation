@@ -3,9 +3,9 @@ title: Compare repeated measures variables and groups
 ---
 New in v2.4.
 
-From the `Analysis` menu choose `Compare repeated measures variables and groups`, and choose the variables you want to compare and the `Grouping variable`, then hit OK.
+From the `Analysis` menu, choose `Compare repeated measures variables and groups`, select the variables you want to compare and the `Grouping variable`, then hit OK.
 
-To use several factors, click on `Factors...` and set the names and the levels of the factors, and click OK. Then you can select the variables for the factor level combinations.
+To use several factors, click on `Factors...` and set the names and the levels of the factors, and click OK. Then, you can select the variables for the factor-level combinations.
 
 * Only the cases where all variables are available are used.
 * Variables to be compared have to have the same measurement levels.
@@ -43,4 +43,4 @@ For individual data plots, [values of a single case are connected](Displaying-in
 |Population parameters numerically|Mean with 95% CI|Median with 95% CI|
 |[Standardized effect size](Standardized-effect-sizes)|
 |Graphs of the population parameters|Graph with mean and 95% CI of the mean|Graph with median| 
-|[Hypothesis test](Hypothesis-tests) and [sensitivity power analyses](Power-analysis)|||
+|[Hypothesis test](Hypothesis-tests) and [sensitivity power analyses](Power-analysis)|(new in v2.5)[Mixed-desing ANOVA](https://en.wikipedia.org/wiki/Mixed-design_analysis_of_variance)||
