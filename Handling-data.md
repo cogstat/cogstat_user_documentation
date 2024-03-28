@@ -26,7 +26,7 @@ In some software packages, you cannot set the measurement levels, and this infor
 
 CogStat handles string variables as nominal, even if other measurement level was set in your data source. So string variables will be set to nominal, no matter what measurement level was given formerly.
 
-If the measurement level is not available, it will be set as `unk` (unkown), and for convenience reasons, in most analyses, it will be handled as an interval variable. If this is not your intention, then the measurement level should be set.
+If the measurement level is not available, it will be set as `unk` (unknown), and for convenience reasons, in most analyses, it will be handled as an interval variable. If this is not your intention, then the measurement level should be set.
 
 ## Available file formats
 
@@ -39,7 +39,7 @@ CogStat can import data from several file formats.
         - If there are multiple sheets in your file, the first sheet will be imported.
     - **Text .csv, .txt, tsv., .dat, and .log files**
        - If you save it from your spreadsheet, make sure that the measurement level row is included (see below). If you save it from other software (e.g., SPSS), then the measurement level will not be included; therefore, we do not recommend this file format.
-       - In some cases, CogStat may not be able to read the csv file correctly because, in general, it is very difficult to identify the applied csv formats correctly. If CogStat cannot read your csv file, we recommend opening the csv file with a spreadsheet program and saving it to another format (such as xls, xlsx or  odt) which can be read more reliably by CogStat.
+       - In some cases, CogStat may not be able to read the csv file correctly because, in general, it is very difficult to identify the applied csv formats correctly. If CogStat cannot read your csv file, we recommend opening the csv file with a spreadsheet program and saving it to another format (such as xls, xlsx, or  odt) which can be read more reliably by CogStat.
 - File formats where the measurement level can be set in the software and can be saved in the file format:
     - **SPSS .sav, .zsav, and .por files**
     - **JASP .jasp files**
@@ -54,7 +54,7 @@ CogStat can import data from several file formats.
 
 Note that data from any other software can be imported into CogStat when the data can be exported to any of these formats.
 
-Note that various file formats have their limitations, such as how long the variable names can be or whether the measurement level is stored in the file.
+Note that various file formats have limitations, such as the length of the variable names or whether the measurement level is stored in the file.
 
 ### How should the data look like in your spreadsheet software?
 
@@ -78,7 +78,7 @@ rs|	2|	99
     * Use `nom`, `ord` and `int` for nominal, ordinal and interval variables. If any other word is in that row, then CogStat considers the row as values, and measurement levels will not be recognized.
     * When you display your data in CogStat, a `Type` row (including `num `and `str` types) are shown, these types should *not* be added to the spreadsheet file. The type row will be detected automatically when you import your data.
 * All other rows include values of the data.
-    * For missing value, leave the cell empty, or write `nan`. (Note that many other common values will be imported as missing value, for example, `NA`, `<NA>`, `n/a`, etc.) New in v2.3: Error messages of the spreadsheet software in a cell when starting with `#` sign and ending with `!` sign (e.g., `#VALUE!`, `#DIV/0!`) will be handled by CogStat as missing value too. New in v2.4: Error messages of the spreadsheet software in a cell when starting with the `Err:` (e.g., `Err:502`) will be handled by CogStat as missing value, too.
+    * For missing value, leave the cell empty, or write `nan`. (Note that many other common values will be imported as missing value, for example, `NA`, `<NA>`, `n/a`, etc.) New in v2.3: Error messages of the spreadsheet software in a cell when starting with `#` sign and ending with `!` sign (e.g., `#VALUE!`, `#DIV/0!`) will be handled by CogStat as a missing value too. New in v2.4: Error messages of the spreadsheet software in a cell when starting with the `Err:` (e.g., `Err:502`) will be handled by CogStat as a missing value, too.
 
 ## How to import your data?
 
@@ -87,12 +87,22 @@ There are two possibilities to import your data to CogStat:
 * Open your file
     * by using the `Data > Open data file...` (or the `Data > Open demo data file...`) menu, 
     * or by dragging and dropping your file to the CogStat window.
-    * (New in v2.4) If you change your source file and save it, you can simply reload your active data file with the `Data > Reload actual data file` command. After reloading the data, you can easily [rerun the analyses](Common-elements-of-the-analysis-results#rerun-the-analyses) seen in the Results pane.
 * If you use spreadsheet software, you can copy and paste your data.
     * The precision of the copied data depends on how the numbers were displayed in the spreadsheet, so change it according to your needs. CogStat handles precision automatically after importing the data, e.g., means are displayed with the precision of the raw data.
-    * The decimal separator should be dot (i.e., [not comma or other signs](https://en.wikipedia.org/wiki/Decimal_separator#/media/File:DecimalSeparator.svg)). If your spreadsheet software uses other separator than dot, change your settings to modify the separator (see how to do it in [MicroSoft Office Excel](https://support.office.com/en-us/article/change-the-character-used-to-separate-thousands-or-decimals-c093b545-71cb-4903-b205-aebb9837bd1e) or in [LibreOffice Calc](https://help.libreoffice.org/Common/Languages)).
+    * The decimal separator should be dot (i.e., [not comma or other signs](https://en.wikipedia.org/wiki/Decimal_separator#/media/File:DecimalSeparator.svg)). If your spreadsheet software uses other separator than a dot, change your settings to modify the separator (see how to do it in [MicroSoft Office Excel](https://support.office.com/en-us/article/change-the-character-used-to-separate-thousands-or-decimals-c093b545-71cb-4903-b205-aebb9837bd1e) or in [LibreOffice Calc](https://help.libreoffice.org/Common/Languages)).
     * Note that other statistical software will copy only the selected data but not the variable names and measurement levels, so the copy-and-paste method is usable only with spreadsheet software.
 
 After the data is opened, you'll see the first few cases in the Results pane, and (new in v2.4) the Data view on the left side will display all cases.
 
 CogStat can store only a single datasheet: When you import new data, the previous one will not be available anymore (until you import the previous one again). If you want to work on several datasets at the same time, open CogStat several times, and different datasets can be used.
+
+## How to edit your data?
+
+You can open your data set with any other software that can edit your file, and you can import the data again.
+
+There are a few features in CogStat that make editing your data easier:
+* (New in v2.5) To open the actual data file for editing it with the default software for that file type, click on `Data > Open data file with external data editor`. Note that CogStat will use the software that should be used by default to open the given file type. If you want to change the software that handles a file type, change it in your operating settings.
+* Sync your data in your editor software and CogStat
+    * (New in v2.4) If you change your source file and save it, you can simply reload your active data file with the `Data > Reload actual data file` command. After reloading the data, you can easily [rerun the analyses](Common-elements-of-the-analysis-results#rerun-the-analyses) seen in the Results pane.
+    * (New in v2.5) Turn on `Data > Reload data file when changed` to reload the actual data file automatically when the file is saved in the editor software. This way, you don't have to reload the file manually.
+    * (New in v2.5) Turn on 'Analyses > Rerun all analyses when file reloaded` to rerun all the analyses seen in the results pane whenever the file is reloaded. When automatic reloading and automatic analysis are turned on, the editor software can be considered as the external data editor of CogStat.
