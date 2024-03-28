@@ -26,10 +26,12 @@ Note that:
 * `Field folder`
   * Andy Field (2021): Discovering Statistics Using R and RStudio (2nd edition). <https://www.discovr.rocks>
   * The data of the [SPSS](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-ibm-spss-statistics/book257672) and the [SAS](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-sas/book234095) version of this popular book cannot be distributed with CogStat because of copyright limitations, but those data files can also be used in CogStat. Download the [SPSS](https://edge.sagepub.com/field5e/student-resources/datasets) or the [SAS](https://studysites.sagepub.com/fieldandmilessas/datafiles.htm) files for the respective book version and drag-and-drop the file on the CogStat app window.
-* `Fodor folder`
+* `Fodor folder` (new in v2.4)
   * Navarro DJ and Fodor R (2022). Learning Statistics with CogStat: A tutorial for psychology students and other beginners. (First edition). <http://www.learningstatisticswithcogstat.com>
 * `Foxcroft folder`
   * Navarro DJ and Foxcroft DR (2019). learning statistics with jamovi: a tutorial for psychology students and other beginners. (Version 0.70). <http://www.learnstatswithjamovi.com>
+* `Haasz folder` (new in v2.5)
+  * Evelin Haász's CogStat adaptation of the book: Matthew J. C. Crump, Anjali Krishnan, Stephen Volz, and Alla Chavarga (2018) Answering questions with data: Lab Manual <https://www.crumplab.com/statisticsLab/>
 * `Hungarian folder`
   * Datasets for Hungarian textbooks and data
     * `Takács folder`
