@@ -43,4 +43,4 @@ For individual data plots, [values of a single case are connected](Displaying-in
 |Population parameters numerically|Mean with 95% CI|Median with 95% CI|
 |[Standardized effect size](Standardized-effect-sizes)|
 |Graphs of the population parameters|Graph with mean and 95% CI of the mean|Graph with median| 
-|[Hypothesis test](Hypothesis-tests) and [sensitivity power analyses](Power-analysis)|(new in v2.5)[Mixed-desing ANOVA](https://en.wikipedia.org/wiki/Mixed-design_analysis_of_variance)||
+|[Hypothesis test](Hypothesis-tests) and [sensitivity power analyses](Power-analysis)|(new in v2.5) [Mixed-desing ANOVA](https://en.wikipedia.org/wiki/Mixed-design_analysis_of_variance)||
