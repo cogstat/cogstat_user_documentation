@@ -1,7 +1,7 @@
 ---
 title: Workshop 2023 September Pécs
 ---
-**Date** September 2023 September 8.
+**Date** 2023 September 8.
 
 **Venue** Ifjuság street 6. Pécs, Hungary
 
