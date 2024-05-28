@@ -24,6 +24,6 @@ title: Workshop 2023 September Pécs
 * [CogStat documentation for users](https://doc.cogstat.org/)
 * [CogStat help page about the parameter recovery function](Behavioral-data-diffusion-analysis)
 
-**Registration** **Registration** The workshop is part of the [Third Best Practices in Data Analysis and Statistics Symposium](https://www.cogstat.org/best_practices_symposium/). Please register for the symposium on its website.
+**Registration** The workshop is part of the [Third Best Practices in Data Analysis and Statistics Symposium](https://www.cogstat.org/best_practices_symposium/). Please register for the symposium on its website.
 
 **After the workshop** Please give us a short feedback about the workshop by [filling this very short form](https://forms.gle/1ye59KG7485ZyZ1a7).
