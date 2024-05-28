@@ -3,7 +3,7 @@ title: Workshop 2024 June London, Canada
 ---
 **Date** June 2024, TBA
 
-**Venue** TBA, London, Canada
+**Venue** TBA, London, ON, Canada
 
 **About the workshop** The workshop introduces the main ideas behind the diffusion model and its practical use in parameter recovery. The workshop is recommended for researchers and students in behavioral sciences who are not familiar with the diffusion models yet but want to make their first steps and plan to apply these methods in their work. The workshop is led by Attila Krajcsi.
 
