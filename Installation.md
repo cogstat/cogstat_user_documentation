@@ -47,6 +47,7 @@ At the moment, we don't have a simple Linux installer. However, Python is most p
 Also, you can add a shortcut to your menu via the menu editor of your desktop environment or anywhere else. If you need an icon, you can download it from [here](https://github.com/cogstat/cogstat/tree/master/cogstat/resources).
 
 After installing CogStat, you'll be able to use it in [Jupyter Notebook](Jupyter-Notebook) too.
+
 <!--
 1. Install some required packages (you may skip this part if you update your CogStat and have already run this before)
     * On a Debian- or an Ubuntu-based distribution, you can use the command line:
