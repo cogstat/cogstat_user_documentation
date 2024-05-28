@@ -24,6 +24,6 @@ title: Workshop 2024 June London, Canada
 * [CogStat documentation for users](https://doc.cogstat.org/)
 * [CogStat help page about the parameter recovery function](Behavioral-data-diffusion-analysis)
 
-**Registration** **Registration** The workshop is free of charge and no registration is needed.
+**Registration** The workshop is free of charge and no registration is needed.
 
 **After the workshop** Please give us a short feedback about the workshop by [filling this very short form](https://forms.gle/1ye59KG7485ZyZ1a7).
