@@ -4,7 +4,7 @@ title: Displaying the data and results graphically
 CogStat creates charts for various aspects of the data and results automatically. There are specific considerations on how these charts are created:
 
 * [Individual data](Displaying-individual-data) are displayed in the raw data charts and the sample charts
-* For [repeated measures data](Displaying-individual-data-in-repeated-measures-variables), the connection between the same case's values are also displayed
+* For [repeated measures data](Displaying-individual-data-in-repeated-measures-variables), the connections between the same case's values are also displayed
 * [Ordinal and nominal variables](Displaying-ordinal-and-nominal-data) are handled distinctively
 * [Within-subject and between-subject information](Display-within-subject-and-between-subject-information-when-comparing-variables) can be displayed flexibly
 * Box plots display the minimum and maximum values, too
@@ -47,7 +47,7 @@ The look of the charts can be changed: color themes, font sizes, etc. You can ch
 
 The image format of the charts can be set in the [`CogStat > Preferences...`](Preferences#chart-theme) menu. Analyses after setting the new theme will be displayed with the new theme (i.e., the charts already visible on the Results pane will not be modified).
 
-See some examples of how those themes may look [here](https://matplotlib.org/gallery/style_sheets/style_sheets_reference.html). Note that some features of the themes may be overwritten by CogStat to have a reasonable output. In other words, some details of the chart will not look like in the theme list above. These features include how dashed and dotted lines look, a few colors (to make sure that [the axes look fine](Displaying-ordinal-and-nominal-data)) and some of the font sizes (to make sure that some fonts are not too large).
+See some examples of how those themes may look [here](https://matplotlib.org/gallery/style_sheets/style_sheets_reference.html). Note that some features of the themes may be overwritten by CogStat to have a reasonable output. In other words, some details of the chart will not look like in the theme list above. These features include how dashed and dotted lines look, a few colors (to make sure that [the axes look fine](Displaying-ordinal-and-nominal-data)), and some of the font sizes (to make sure that some fonts are not too large).
 
 ### Customizing further details
 
@@ -66,6 +66,6 @@ For example, in [LibreOffice](https://www.libreoffice.org/),
 
 The image format of the charts can be set in the [`CogStat > Preferences...`](Preferences#image-format) menu.
 
-The charts can be displayed in [png](https://en.wikipedia.org/wiki/PNG) (a [raster graphic format](https://en.wikipedia.org/wiki/Raster_graphics)) and [svg](https://en.wikipedia.org/wiki/SVG) (a [vector graphic format](https://en.wikipedia.org/wiki/Vector_graphics)) format. The svg (and generally, a vector graphic) format is always sharp, no matter what zooming one uses, while the png (and generally, a raster graphic) format may require less memory when there are many details in the images (mostly for large sample sizes when the individual data are displayed). The svg (vector graphics) format can later be reformatted (e.g., changing the colors) in a vector image manipulation software - see above the Customizing further details section).
+The charts can be displayed in [png](https://en.wikipedia.org/wiki/PNG) (a [raster graphic format](https://en.wikipedia.org/wiki/Raster_graphics)) or [svg](https://en.wikipedia.org/wiki/SVG) (a [vector graphic format](https://en.wikipedia.org/wiki/Vector_graphics)) format. The svg (and generally, a vector graphic) format is always sharp, no matter what zooming one uses, while the png (and generally, a raster graphic) format may require less memory when there are many details in the images (mostly for large sample sizes when the individual data are displayed). The svg (vector graphics) format can later be reformatted (e.g., changing the colors) in a vector image manipulation software - see above the Customizing further details section).
 
 Currently, the svg format may not be supported in all word processors when you want to copy and paste the results. For example, the svg format is not supported (as of 2023 September) in Google Docs, and it is only partly supported in OnlyOffice (where various parts of the image are not displayed).
