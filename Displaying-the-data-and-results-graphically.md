@@ -47,18 +47,18 @@ The look of the charts can be changed: color themes, font sizes, etc. You can ch
 
 The image format of the charts can be set in the [`CogStat > Preferences...`](Preferences#chart-theme) menu. Analyses after setting the new theme will be displayed with the new theme (i.e., the charts already visible on the Results pane will not be modified).
 
-See some examples of how those themes may look [here](https://matplotlib.org/gallery/style_sheets/style_sheets_reference.html). Note that some features of the themes may be overwritten by CogStat to have a reasonable output. In other words, some details of the chart will not look like in the theme list above. These features include how dashed and dotted lines look, a few colors (to make sure that [the axes look fine](Displaying-ordinal-and-nominal-data)) some of the font sizes (to make sure that some fonts are not too large).
+See some examples of how those themes may look [here](https://matplotlib.org/gallery/style_sheets/style_sheets_reference.html). Note that some features of the themes may be overwritten by CogStat to have a reasonable output. In other words, some details of the chart will not look like in the theme list above. These features include how dashed and dotted lines look, a few colors (to make sure that [the axes look fine](Displaying-ordinal-and-nominal-data)) and some of the font sizes (to make sure that some fonts are not too large).
 
 ### Customizing further details
 
-If you're not satisfied with the given themes or want to modify further elements of the charts, then you may use the svg image format (see below), and then your chart can be edited in image manipulation software packages, such as [LibreOffice Draw](https://www.libreoffice.org/) or [Inkscape](https://inkscape.org/).
+If you're not satisfied with the given themes or want to modify further elements of the charts, then you may use the svg image format (see below the Image format section), and then your chart can be edited in vector image manipulation software packages, such as [LibreOffice Draw](https://www.libreoffice.org/) or [Inkscape](https://inkscape.org/).
 
 For example, in [LibreOffice](https://www.libreoffice.org/), 
 * after you copied the chart from CogStat to Writer to your report, 
 * copy the chart again from Writer, open a Draw window (`File > New > Drawing`), and paste your chart, 
 * right-click on the chart, choose `Break`,
 * modify the required components and properties of the chart,
-* and when you're satisfied with the result, select the whole chart (e.g., if you don't have anything else in the Draw document, then `Edit > Select all`), copy from Draw, and paste to Writer.
+* and when you're satisfied with the result, select the whole chart (if you don't have anything else in the Draw document page, then `Edit > Select all`), copy from Draw, and paste to Writer.
 
 ## Image format
 
@@ -66,6 +66,6 @@ For example, in [LibreOffice](https://www.libreoffice.org/),
 
 The image format of the charts can be set in the [`CogStat > Preferences...`](Preferences#image-format) menu.
 
-The charts can be displayed in [png](https://en.wikipedia.org/wiki/PNG) and [svg](https://en.wikipedia.org/wiki/SVG) format. The svg format is always sharp, no matter what zooming one uses, while the png format may require less memory when there are many details in the images (mostly for large sample sizes when the individual data are displayed). The svg format later can be reformatted (e.g., changing the colors) in other image manipulation software - see below.
+The charts can be displayed in [png](https://en.wikipedia.org/wiki/PNG) (a [raster graphics format](https://en.wikipedia.org/wiki/Raster_graphics)) and [svg](https://en.wikipedia.org/wiki/SVG) (a [vector image format](https://en.wikipedia.org/wiki/Vector_graphics)) format. The svg (and generally, a vector graphic) format is always sharp, no matter what zooming one uses, while the png (and generally, a raster graphic) format may require less memory when there are many details in the images (mostly for large sample sizes when the individual data are displayed). The svg (vector graphics) format can later be reformatted (e.g., changing the colors) in other vector image manipulation software - see above the Customizing further details section).
 
 Currently, the svg format may not work with all word processors when you want to copy and paste the results. For example, the svg format is not supported (as of 2023 September) in Google Docs, and it is only partly supported in OnlyOffice (where various parts of the image are not displayed).
