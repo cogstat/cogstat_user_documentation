@@ -12,8 +12,8 @@ There are various advantages of learning statistics with CogStat.
 
 There are two introductory textbooks that build upon the way CogStat analyses data:
 * Danielle Navarro, Róbert Fodor (2022). [Learning statistics with CogStat](https://learningstatisticswithcogstat.com/)
-* Attila Krajcsi (2020). [Introduction to statistics with CogStat](https://edit.elte.hu/xmlui/handle/10831/49337)
 * Evelin Haász (2024). [Answering Questions with Data in CogStat](https://docs.google.com/document/d/1kmTECvWqOl2DhcjxLh-TU7QcQbzTilbwNeJ_Uu6EcTU/edit?usp=sharing) (CogStat version of Matthew J. C. Crump, Anjali Krishnan, Stephen Volz, and Alla Chavarga (2018) [Answering questions with data: Lab Manual](https://www.crumplab.com/statisticsLab/index.html))
+* Attila Krajcsi (2020). [Introduction to statistics with CogStat](https://edit.elte.hu/xmlui/handle/10831/49337)
 
 ## Using CogStat with other textbooks
 
