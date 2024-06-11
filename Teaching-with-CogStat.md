@@ -17,6 +17,7 @@ CogStat is designed to support statistics education:
 * Introductory statistics textbooks optimized for CogStat use
     * Danielle Navarro, Róbert Fodor (2022). [Learning statistics with CogStat](https://learningstatisticswithcogstat.com/)
     * Attila Krajcsi (2020). [Introduction to statistics with CogStat](https://edit.elte.hu/xmlui/handle/10831/49337)
+    * Evelin Haász (2024). [Answering Questions with Data in CogStat](https://docs.google.com/document/d/1kmTECvWqOl2DhcjxLh-TU7QcQbzTilbwNeJ_Uu6EcTU/edit?usp=sharing) (CogStat version of Matthew J. C. Crump, Anjali Krishnan, Stephen Volz, and Alla Chavarga (2018) [Answering questions with data: Lab Manual](https://www.crumplab.com/statisticsLab/index.html))
 * [Using CogStat](https://docs.google.com/presentation/d/1_rnHhyD3pF9BZuqCkcFLWKhAbX1DfS8T5q-TxogqpZA/edit?usp=sharing), a slideshow to teach CogStat for students who are already familiar with statistics and used other software
 * [Using CogStat as an education tool](https://docs.google.com/presentation/d/1vrqag3xaBW1nztx7KnJhDA-9dZCAKnaYe47RMxYSUDs/edit?usp=sharing), a slideshow partly overlapping with the previous slideshow, but presenting a few more education specific details
 * [Learning statistics with CogStat](Learning-statistics-with-CogStat) page for students
