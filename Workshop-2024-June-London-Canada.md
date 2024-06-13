@@ -15,7 +15,7 @@ title: Workshop 2024 June London, Canada
 * Parameter recovery with CogStat
 
 **Preparation for the workshop**
-* You may download and install [Diffusion Model Visualizer](https://osf.io/4en3b/) and CogStat (preferably use the [latest 2.5RC version](https://github.com/cogstat/cogstat/releases/tag/2.5rc)) for the workshop.
+* You may download and install [Diffusion Model Visualizer](https://osf.io/4en3b/) and CogStat (preferably use the [latest 2.5RC version](https://github.com/cogstat/cogstat/releases/tag/2.5rc), Mac users may use the [latest stable 2.4.1 version](https://github.com/cogstat/cogstat/releases/tag/2.4.1)) for the workshop.
 * You may prepare your own data that you wish to analyze. It should be a paradigm with two possible responses, short (<2000 ms) response latencies, and the log files should be loadable to spreadsheet software.
 
 **Useful links**
