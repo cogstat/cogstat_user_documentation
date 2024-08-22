@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://doc.cogstat.org/sitemap.xml
