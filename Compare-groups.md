@@ -20,7 +20,7 @@ The following results will be calculated (see also the [common elements of the r
 |---|---|---|---|
 |Descriptive data|Means, [Standard deviations](https://en.wikipedia.org/wiki/Standard_deviation), Maximums, [Upper quartiles](https://en.wikipedia.org/wiki/Quartile), [Medians](https://en.wikipedia.org/wiki/Median), Lower quartiles, Minimums|Maximums, [Upper quartiles](https://en.wikipedia.org/wiki/Quartile), [Medians](https://en.wikipedia.org/wiki/Median), Lower quartiles, Minimums|[Variation ratio](https://en.wikipedia.org/wiki/Variation_ratio), [Contingency table](https://en.wikipedia.org/wiki/Contingency_table) (case count), Contingency table (percentage)
 |[Standardized effect size](Standardized-effect-sizes)|For two groups Cohen's d and eta-squared| |[Cramér's V](https://en.wikipedia.org/wiki/Cram%C3%A9r%27s_V)
-|Graphs of the data|[Box plot](Box-plots) with individual data|[Box plot](Box-plots) with individual data ([order of the values](Displaying-ordinal-and-nominal-data))|
+|Graphs of the data|[Box plot](Displaying-the-data-and-results-graphically) with individual data|[Box plot](Displaying-the-data-and-results-graphically) with individual data ([order of the values](Displaying-ordinal-and-nominal-data))|
 
 ## Population properties
 
