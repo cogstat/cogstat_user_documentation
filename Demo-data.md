@@ -47,4 +47,4 @@ Note that:
 
 ### More data
 
-See [our data analysis and statistics resources](Data-analysis-and-statistics-resources).
+See [our data analysis and statistics resources](https://github.com/cogstat/cogstat/wiki/Data-analysis-and-statistics-resources).
