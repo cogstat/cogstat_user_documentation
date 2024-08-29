@@ -1,3 +1,7 @@
+---
+title: CogStat user documentation
+---
+
 ### Introduction
 * [Main features of CogStat](Main-features)
 * [Quick Start Tutorial](Quick-Start-Tutorial)
