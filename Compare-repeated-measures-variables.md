@@ -27,7 +27,7 @@ For individual data plots, [values of a single case are connected](Displaying-in
 |---|---|---|---|
 |Descriptive data|Means, [Standard deviations](https://en.wikipedia.org/wiki/Standard_deviation), Maximums, [Upper quartiles](https://en.wikipedia.org/wiki/Quartile), [Medians](https://en.wikipedia.org/wiki/Median), Lower quartiles, Minimums|Maximums, [Upper quartiles](https://en.wikipedia.org/wiki/Quartile), [Medians](https://en.wikipedia.org/wiki/Median), Lower quartiles, Minimums|[Variation ratio](https://en.wikipedia.org/wiki/Variation_ratio), [Contingency table](https://en.wikipedia.org/wiki/Contingency_table) (case count), Contingency table (percentage)
 |[Standardized effect size](Standardized-effect-sizes)|For two groups Cohen's d and eta-squared
-|Graphs of the data|Box plot showing quantiles with spaghetti plot showing individual data|Box plot showing quantiles with spaghetti plot showing individual data|
+|Graphs of the data|Box plot showing quartiles with spaghetti plot showing individual data|Box plot showing quartiles with spaghetti plot showing individual data|
 
 For individual data plots, [values of a single case are connected](Displaying-individual-data-in-repeated-measures-variables).
 
