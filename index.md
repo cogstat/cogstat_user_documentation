@@ -15,6 +15,7 @@
 * [Handling data](Handling-data)
     * [Demo data](Demo-data)
     * [Filter outliers](Filter-outliers)
+    * [Missing data](Missing-data)
 * Analysis - Common elements
     * [Common elements of the analysis results](Common-elements-of-the-analysis-results)
     * [Standardized effect sizes](Standardized-effect-sizes)
@@ -26,7 +27,6 @@
         * [Displaying individual data in repeated measures variables](Displaying-individual-data-in-repeated-measures-variables)
         * [Displaying ordinal and nominal data](Displaying-ordinal-and-nominal-data)
         * [Displaying within-subject and between-subject information](Display-within-subject-and-between-subject-information-when-comparing-variables)
-    * [Missing data](Missing-data)
     * [Differences in calculations between CogStat and other programs](Differences-in-calculations-between-CogStat-and-other-programs)
 * Analysis - Menus
     * [Explore variable](Explore-variable)
