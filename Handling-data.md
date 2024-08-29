@@ -78,7 +78,7 @@ rs|	2|	99
     * Use `nom`, `ord` and `int` for nominal, ordinal and interval variables. If any other word is in that row, then CogStat considers the row as values, and measurement levels will not be recognized.
     * When you display your data in CogStat, a `Type` row (including `num `and `str` types) are shown, these types should *not* be added to the spreadsheet file. The type row will be detected automatically when you import your data.
 * All other rows include values of the data.
-    * For missing value, leave the cell empty, or write `nan`. (Note that many other common values will be imported as missing value, for example, `NA`, `<NA>`, `n/a`, etc.) New in v2.3: Error messages of the spreadsheet software in a cell when starting with `#` sign and ending with `!` sign (e.g., `#VALUE!`, `#DIV/0!`) will be handled by CogStat as a missing value too. New in v2.4: Error messages of the spreadsheet software in a cell when starting with the `Err:` (e.g., `Err:502`) will be handled by CogStat as a missing value, too.
+    * For missing value, leave the cell empty, or write `nan`. Many other common values will be imported as [missing values](Missing-data).
 
 ## How to import your data?
 
