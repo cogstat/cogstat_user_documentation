@@ -3,7 +3,7 @@ title: Compare repeated measures variables
 ---
 From the `Analysis` menu choose `Compare repeated measures variables`, and choose the variables you want to compare, then hit OK.
 
-To use several factors, click on `Factors...` and set the names and the levels of the factors, and click OK. Then you can select the variables for the factor level combinations.
+To use several factors, click on `Factors...` and set the names and the levels of the factors, and click OK. Then, you can select the variables for the factor level combinations.
 
 * Only the cases where all variables are available are used.
 * Variables to be compared have to have the same measurement levels.
@@ -17,7 +17,7 @@ The following results will be calculated (see also the [common elements of the r
 |Result|For interval variables|For ordinal variables|For nominal variables
 |---|---|---|---|
 |Sample size | Number of observed cases | Number of observed cases | Number of observed cases
-|Graphs of the raw data|Plot with individual data|Plot with individual data|[Mosaic plot](https://en.wikipedia.org/wiki/Mosaic_plot)
+|Graphs of the raw data|Spaghetti plot showing individual data|Spaghetti plot showing individual data|[Mosaic plot](https://en.wikipedia.org/wiki/Mosaic_plot)
 
 For individual data plots, [values of a single case are connected](Displaying-individual-data-in-repeated-measures-variables).
 
@@ -27,7 +27,7 @@ For individual data plots, [values of a single case are connected](Displaying-in
 |---|---|---|---|
 |Descriptive data|Means, [Standard deviations](https://en.wikipedia.org/wiki/Standard_deviation), Maximums, [Upper quartiles](https://en.wikipedia.org/wiki/Quartile), [Medians](https://en.wikipedia.org/wiki/Median), Lower quartiles, Minimums|Maximums, [Upper quartiles](https://en.wikipedia.org/wiki/Quartile), [Medians](https://en.wikipedia.org/wiki/Median), Lower quartiles, Minimums|[Variation ratio](https://en.wikipedia.org/wiki/Variation_ratio), [Contingency table](https://en.wikipedia.org/wiki/Contingency_table) (case count), Contingency table (percentage)
 |[Standardized effect size](Standardized-effect-sizes)|For two groups Cohen's d and eta-squared
-|Graphs of the data|Box plot with individual data|Box plot with individual data |
+|Graphs of the data|Box plot showing quantiles with spaghetti plot showing individual data|Box plot showing quantiles with spaghetti plot showing individual data|
 
 For individual data plots, [values of a single case are connected](Displaying-individual-data-in-repeated-measures-variables).
 
