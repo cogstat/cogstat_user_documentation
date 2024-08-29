@@ -22,7 +22,7 @@ The following results will be calculated (see also the [common elements of the r
 |Result|For interval variables|For ordinal variables|For nominal variables
 |---|---|---|---|
 |Sample size | Number of observed cases | Number of observed cases | 
-|Graphs of the raw data|Plot with individual data|Plot with individual data|
+|Graphs of the raw data|Scatter plot and/or spaghetti plot showing individual data|Scatter plot and/or spaghetti plot showing individual data|
 
 For repeated measures individual data plots, [values of a single case are connected](Displaying-individual-data-in-repeated-measures-variables).
 
@@ -32,7 +32,7 @@ For repeated measures individual data plots, [values of a single case are connec
 |---|---|---|---|
 |Descriptive data|Means, [Standard deviations](https://en.wikipedia.org/wiki/Standard_deviation), Maximums, [Upper quartiles](https://en.wikipedia.org/wiki/Quartile), [Medians](https://en.wikipedia.org/wiki/Median), Lower quartiles, Minimums|Maximums, [Upper quartiles](https://en.wikipedia.org/wiki/Quartile), [Medians](https://en.wikipedia.org/wiki/Median), Lower quartiles, Minimums|
 |[Standardized effect size](Standardized-effect-sizes)|
-|Graphs of the data|Box plot with individual data|Box plot with individual data |
+|Graphs of the data|Box plot showing quartiles with scatter plot and/or spaghetti plot showing individual data|Box plot showing quartiles with scatter plot and/or spaghetti plot showing individual data|
 
 For individual data plots, [values of a single case are connected](Displaying-individual-data-in-repeated-measures-variables).
 
