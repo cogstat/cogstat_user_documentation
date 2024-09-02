@@ -5,6 +5,7 @@ title: CogStat documentation
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-feed
 
 minima:
   skin: classic
