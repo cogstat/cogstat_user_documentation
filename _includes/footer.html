@@ -5,6 +5,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
+        <p><a href='https://www.cogstat.org'>CogStat website</a></p>
         {% comment %}
         <p class="feed-subscribe">
           <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
@@ -14,28 +15,12 @@
           </a>
         </p>
         {% endcomment %}
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
       </div>
       <div class="footer-col">
-        <p><a href='https://www.cogstat.org'>CogStat website</a></p>
       </div>
       <div class="footer-col">
         <p><a href='https://doc.cogstat.org'>CogStat user documentation</a></p>
       </div>
-      {% comment %}
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
-      </div>
-      {% endcomment %}
     </div>
 
     <div class="social-links">
