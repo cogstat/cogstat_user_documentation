@@ -29,7 +29,7 @@ title: Installation
 0. Note that these instructions may not work for older macOS versions. Most probably you need at least macOS 10.13.
 1. Install some of the required packages (you may skip this part if you update your CogStat and have already run this before).
     * Open a terminal
-        * Press Command+Space, type Terminal and press the enter key.
+        * Press Command+Space, type Terminal, and press the enter key.
     * Install brew
         * Type `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` and hit enter.
     * Install a new Python 3 and the PyQt Python module
@@ -37,7 +37,7 @@ title: Installation
         * Type `brew install pyqt5` and hit enter.
 2.
     * Type `pip3 install Downloads/cogstat-version.tar.gz --user` (use the version number of your downloaded file) and hit enter.
-        * This may take some time, depending on the speed of your internet connection.
+        * This may take some time, depending on your internet connection speed.
 --->
 
 ### Install and use CogStat on Linux
@@ -64,8 +64,8 @@ After installing CogStat, you'll be able to use it in [Jupyter Notebook](Jupyter
 1. [Download the CogStat python package](https://www.cogstat.org/download.html) (.tar.gz file)
 2. Install it. The method may depend on your system; choose one of these:
     * Use pip: `pip3 install cogstat-version.tar.gz` (use the version number of your downloaded file)
-        * On Linux, use root/admin access to install it system-wise.
-    * Alternatively, Anaconda users should use the Anaconda prompt for the installation.
+        * On Linux, use root/admin access to install it system-wide.
+    * Anaconda users can also use pip for the installation. After installation, you can use `conda list` to check if cogstat was successfully installed.
     * (New in v2.5) CogStat uses R for some of the calculations. You have to install R, if you want to see these results. In some cases (e.g., in Windows), you may need to set up the R_HOME environment variable.
 3. Run CogStat with the graphical user interface:
     * Type in your console: `cogstat` or type `python3 -m cogstat`
