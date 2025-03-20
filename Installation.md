@@ -65,7 +65,7 @@ After installing CogStat, you'll be able to use it in [Jupyter Notebook](Jupyter
 2. Install it. The method may depend on your system; choose one of these:
     * Use pip: `pip3 install cogstat-version.tar.gz` (use the version number of your downloaded file)
         * On Linux, use root/admin access to install it system-wide.
-    * Anaconda users can also use pip for the installation. After installation, you can use `conda list` to check if cogstat was successfully installed.
+    * Anaconda users can also use `pip` for the installation. After installation, you can use `conda list` to check if cogstat was successfully installed.
     * (New in v2.5) CogStat uses R for some of the calculations. You have to install R, if you want to see these results. In some cases (e.g., in Windows), you may need to set up the R_HOME environment variable.
 3. Run CogStat with the graphical user interface:
     * Type in your console: `cogstat` or type `python3 -m cogstat`
