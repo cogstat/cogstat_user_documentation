@@ -13,7 +13,7 @@ How does outlier-based filtering work in CogStat?
     * A value is an outlier if it is more extreme than the median ± 2.5 × MAD. ([See details below.](#information-about-the-mad-method))
         * Before CogStat version 2.2, a value was an outlier if it was more extreme than the mean ± 2 × SD.
 * (New in v2.4) In the multivariate method,
-    * Mahalanobis-MCD distance will be calculated, and cases beyond the .05 chi-squared cut-off will be excluded. ([See details below.](#information-about-the-Mahalanobis-MCD-distance))
+    * Mahalanobis-MCD distance will be calculated, and cases beyond the .05 chi-squared cut-off will be excluded. ([See details below.](#information-about-the-mahalanobis-mcd-distance))
 * In addition, the cases that have a [missing value](Missing-data) in the selected variables will be excluded too.
 * In the following analyses, the filtered cases will be ignored unless a new filtering criterion is set. When the outlier filtering is active, there is a short message about the variables the filtering is based on at the top of the output of all analyses.
 
