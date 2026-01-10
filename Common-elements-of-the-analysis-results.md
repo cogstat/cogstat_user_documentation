@@ -3,6 +3,8 @@ title: Common elements of the analysis results
 ---
 ## Raw data, sample properties, and population properties
 
+When relevant, CogStat displays the results in [APA style](APA-style).
+
 In most analyses, the results are divided into three main sections and further subsections:
 
 1. **Raw data.** 
