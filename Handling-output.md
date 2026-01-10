@@ -1,7 +1,6 @@
 ---
 title: Handling output
 ---
-When relevant, CogStat displays the results in [APA style](APA-style).
 
 ## Delete output
 `Results > Clear results` deletes the content of the output.
@@ -22,6 +21,8 @@ Note that the size of the plots will not be changed.
 Enable `Results > Text is editable`, and modify the text to add comments to the results.
 
 ## Save output
-The output can be saved as html files. (New in v2.4) Results are saved in html format; previous versions saved the results in pdf format.
+The output can be saved as html files. `Results > Save results` or `Results > Save results as` saves the current content of the output.
 
-`Results > Save results` or `Results > Save results as` saves the current content of the output. It overwrites the file with the same name.
+If you need other format than html, you may use various applications to convert the results:
+* For example, open the html page in a browser and save/print it to pdf format.
+* Or you can open it with your preferred Word processor (such as Microsoft Word, Google Doc, LibreOffice Writer, etc.) and save or export it in any format your editor supports.
