@@ -26,7 +26,7 @@ title: Installation
 (If you want to use CogStat in [Jupyter Notebook](Jupyter-Notebook) or if you want to use a smaller installer by adding CogStat to your existing Python installation, see the instructions in the relevant section below.)
 
 <!---
-0. Note that these instructions may not work for older macOS versions. Most probably you need at least macOS 10.13.
+0. Note that these instructions may not work for older macOS versions. Most probably, you need at least macOS 10.13.
 1. Install some of the required packages (you may skip this part if you update your CogStat and have already run this before).
     * Open a terminal
         * Press Command+Space, type Terminal, and press the enter key.
@@ -42,34 +42,28 @@ title: Installation
 
 ### Install and use CogStat on Linux
 
-At the moment, we don't have a simple Linux installer. However, Python is most probably already installed on your Linux, and it is relatively easy to install CogStat to your Python distribution. See the description in the relevant section below on how to install CogStat on your system.
+At the moment, we don't have a simple Linux installer. However, Python is most probably already installed on your Linux, and it is relatively easy to install CogStat to your Python distribution. See the description below on how to install CogStat in your Python environment.
 
 Also, you can add a shortcut to your menu via the menu editor of your desktop environment or anywhere else. If you need an icon, you can download it from [here](https://github.com/cogstat/cogstat/tree/master/cogstat/resources).
 
 After installing CogStat, you'll be able to use it in [Jupyter Notebook](Jupyter-Notebook) too.
 
-<!--
-1. Install some required packages (you may skip this part if you update your CogStat and have already run this before)
-    * On a Debian- or an Ubuntu-based distribution, you can use the command line:
-        * `sudo apt-get install python3 python3-tk python3-pip python3-notebook python3-setuptools`
-        * Alternatively, you can install these packages with any graphical package manager.
-        * Some of these packages may be already on your system.
-        * On other distributions, the package names may differ.
--->
-
 ---
 
-### Install CogStat in your existing Python installation for smaller installer size or to use it in Jupyter Notebook
+### Install CogStat in your Python environment
 
 1. [Download the CogStat python package](https://www.cogstat.org/download.html) (.tar.gz file)
-2. Install it. The method may depend on your system; choose one of these:
-    * Use pip: `pip3 install cogstat-version.tar.gz` (use the version number of your downloaded file)
+2. Optionally, create a virtual Python environment:
+    * For example, `python3 -m venv cogstat-env` and `source cogstat-env/bin/activate`
+4. Install CogStat. The method may depend on your system; choose one of these:
+    * Use pip: `pip3 install cogstat-version.tar.gz[GUI]` (use the version number of your downloaded file)
+        * If you want to use CogStat only in Jupyter Notebook, then you may install it without the GUI dependencies (i.e., without PyQt) with `pip3 install cogstat-version.tar.gz`
         * On Linux, use root/admin access to install it system-wide.
     * Anaconda users can also use `pip` for the installation. After installation, you can use `conda list` to check if cogstat was successfully installed.
-    * (New in v2.5) CogStat uses R for some of the calculations. You have to install R, if you want to see these results. In some cases (e.g., in Windows), you may need to set up the R_HOME environment variable.
-3. Run CogStat with the graphical user interface:
+    * (New in v2.5) CogStat uses R for some of the calculations. You have to install R if you want to see these results. In some cases (e.g., in Windows), you may need to set up the R_HOME environment variable.
+5. Run CogStat with the graphical user interface:
     * Type in your console: `cogstat` or type `python3 -m cogstat`
-4. Or use [CogStat in Jupyter Notebook](Jupyter-Notebook).
+6. Or use [CogStat in Jupyter Notebook](Jupyter-Notebook).
     * After installation, CogStat is available to use in Jupyter Notebook
 
 ### Install the preview versions of CogStat
