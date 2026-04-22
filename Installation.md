@@ -42,7 +42,7 @@ title: Installation
 
 ### Install and use CogStat on Linux
 
-At the moment, we don't have a simple Linux installer. However, Python is most probably already installed on your Linux, and it is relatively easy to install CogStat to your Python distribution. See the description below on how to install CogStat in your Python environment.
+At the moment, we don't have a simple Linux installer. However, Python is most probably already installed on your Linux, and it is relatively easy to install CogStat with your Python distribution. See the description below on how to install CogStat in a Python environment.
 
 Also, you can add a shortcut to your menu via the menu editor of your desktop environment or anywhere else. For example, `cogstat-env/bin/python -m cogstat` or `bash -c "source cogstat-env/bin/activate && cogstat"`. If you need an icon, you can download it from [here](https://github.com/cogstat/cogstat/tree/master/cogstat/resources).
 
@@ -63,6 +63,7 @@ After installing CogStat, you'll be able to use it in [Jupyter Notebook](Jupyter
     * (New in v2.5) CogStat uses R for some of the calculations. You have to install R if you want to see these results. In some cases (e.g., in Windows), you may need to set up the R_HOME environment variable.
 4. Run CogStat with the graphical user interface:
     * In your console, type `cogstat` or `python3 -m cogstat`
+    * If you used a virtual Python environment, after activating the environment, you may use the method above, or without the activation, type `cogstat-env/bin/python -m cogstat`
 5. Or use [CogStat in Jupyter Notebook](Jupyter-Notebook).
     * After installation, CogStat is available to use in Jupyter Notebook
 
