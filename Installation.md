@@ -44,7 +44,7 @@ title: Installation
 
 At the moment, we don't have a simple Linux installer. However, Python is most probably already installed on your Linux, and it is relatively easy to install CogStat to your Python distribution. See the description below on how to install CogStat in your Python environment.
 
-Also, you can add a shortcut to your menu via the menu editor of your desktop environment or anywhere else. If you need an icon, you can download it from [here](https://github.com/cogstat/cogstat/tree/master/cogstat/resources).
+Also, you can add a shortcut to your menu via the menu editor of your desktop environment or anywhere else. For example, `cogstat-env/bin/python -m cogstat'. If you need an icon, you can download it from [here](https://github.com/cogstat/cogstat/tree/master/cogstat/resources).
 
 After installing CogStat, you'll be able to use it in [Jupyter Notebook](Jupyter-Notebook) too.
 
