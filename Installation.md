@@ -7,7 +7,7 @@ title: Installation
 
 1. If you update from a previous version, uninstall the previous CogStat first (uninstall is available in the Start menu). Parallel installed versions may not work.
 1. [Download the installer](https://www.cogstat.org/download.html) (.exe file), and run it.
-    - The installer is not signed at the moment. Your operating system or your anti-virus package may warn you about this.
+    - The installer is not signed at the moment. Your operating system or your antivirus package may warn you about this.
 1. After the installation, CogStat is available from the Start menu.
 
 (If you want to use CogStat in [Jupyter Notebook](Jupyter-Notebook) or if you want to use a smaller installer by adding CogStat to your existing Python installation, see the instructions in the relevant section below.)
@@ -29,14 +29,14 @@ title: Installation
 0. Note that these instructions may not work for older macOS versions. Most probably, you need at least macOS 10.13.
 1. Install some of the required packages (you may skip this part if you update your CogStat and have already run this before).
     * Open a terminal
-        * Press Command+Space, type Terminal, and press the enter key.
+        * Press Command+Space, type Terminal, and press the Enter key.
     * Install brew
         * Type `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` and hit enter.
     * Install a new Python 3 and the PyQt Python module
         * Type `brew install python3` and hit enter.
         * Type `brew install pyqt5` and hit enter.
 2.
-    * Type `pip3 install Downloads/cogstat-version.tar.gz --user` (use the version number of your downloaded file) and hit enter.
+    * Type `pip3 install Downloads/cogstat-version.tar.gz --user` (use the version number of your downloaded file) and hit Enter.
         * This may take some time, depending on your internet connection speed.
 --->
 
@@ -55,12 +55,12 @@ After installing CogStat, you'll be able to use it in [Jupyter Notebook](Jupyter
 1. [Download the CogStat python package](https://www.cogstat.org/download.html) (.tar.gz file)
 2. Optionally, create a virtual Python environment:
     * For example, `python3 -m venv cogstat-env` and `source cogstat-env/bin/activate`
-3. Install CogStat. The method may depend on your system, for example:
+3. Install CogStat. The method may depend on your system; for example:
     * Use pip: `pip3 install cogstat-version.tar.gz[GUI]` (use the version number of your downloaded file)
         * If you want to use CogStat only in Jupyter Notebook, then you may install it without the GUI dependencies (i.e., without PyQt) with `pip3 install cogstat-version.tar.gz`
         * On Linux, use root/admin access to install it system-wide.
     * Anaconda users can also use `pip` for the installation. After installation, you can use `conda list` to check if cogstat was successfully installed.
-    * (New in v2.5) CogStat uses R for some of the calculations. You have to install R if you want to see these results. In some cases (e.g., in Windows), you may need to set up the R_HOME environment variable.
+    * (New in v2.5) CogStat uses R for some of the calculations. You have to install R if you want to see these results. In some cases (e.g., on Windows), you may need to set up the R_HOME environment variable.
 4. Run CogStat with the graphical user interface:
     * In your console, type `cogstat` or `python3 -m cogstat`
     * If you used a virtual Python environment, after activating the environment, you may use the method above, or without the activation, type `cogstat-env/bin/python -m cogstat`
