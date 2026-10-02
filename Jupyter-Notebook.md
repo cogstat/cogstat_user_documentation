@@ -1,7 +1,7 @@
 ---
 title: Jupyter Notebook
 ---
-You can use CogStat in Jupyter Notebook. See a [tutorial here](http://github.com/cogstat/cogstat/blob/master/cogstat/docs/CogStat%20Jupyter%20Notebook%20tutorial.ipynb). Find the [API documentation here](https://api.cogstat.org/).
+You can use CogStat in Jupyter Notebook. Find a [tutorial here](http://github.com/cogstat/cogstat/blob/master/cogstat/docs/CogStat%20Jupyter%20Notebook%20tutorial.ipynb) and the [API documentation here](https://api.cogstat.org/).
 
 ## Information about Jupyter Notebook and Python for beginners
 
