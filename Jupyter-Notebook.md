@@ -17,7 +17,7 @@ CogStat can be imported and used as any other Python module. One main advantage 
 
 ## How to use CogStat in Jupyter Notebook?
 
-See the [installation instructions](Installation) for how to install CogStat for Jupyter Notebook.
+See the [installation instructions](https://doc.cogstat.org/Installation#install-cogstat-in-your-python-environment) for how to install CogStat for Jupyter Notebook.
 
 See a tutorial on [how to use CogStat in Jupyter Notebook](http://github.com/cogstat/cogstat/blob/master/cogstat/docs/CogStat%20Jupyter%20Notebook%20tutorial.ipynb).
 
